@@ -65,7 +65,7 @@ A graphical user interface (GUI) tool built with PyQt6 for managing icon atlases
 
 1. **Run the Tool**:
    ```
-   python v6_1_icon_manager.py
+   python icon_manager.py
    ```
    - The GUI will launch with tabs for Main operations, Create Atlas, and Preferences.
 
